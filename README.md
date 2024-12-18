@@ -1,4 +1,3 @@
-content = """
 # **Automatic Number Plate Detection Project**  
 
 ## **Project Overview**  

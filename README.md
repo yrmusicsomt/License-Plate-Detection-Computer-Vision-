@@ -50,16 +50,5 @@ This project implements an **Automatic Number Plate Detection System** using ima
 - Parking Management Systems  
 - Vehicle Tracking  
 
----
 
-## **License**  
-This project is open-source and available under the **MIT License**.  
-"""
-
-# Save content to a .md file
-file_path = "/mnt/data/number_plate_detection_readme.md"
-with open(file_path, "w") as file:
-    file.write(content)
-
-file_path
 
